@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmvc_parent/springmvc_dao/springmvc_dao.iml" filepath="$PROJECT_DIR$/springmvc_parent/springmvc_dao/springmvc_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_parent/springmvc_parent.iml" filepath="$PROJECT_DIR$/springmvc_parent/springmvc_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_parent/springmvc_service/springmvc_service.iml" filepath="$PROJECT_DIR$/springmvc_parent/springmvc_service/springmvc_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc_parent/springmvc_web/springmvc_web.iml" filepath="$PROJECT_DIR$/springmvc_parent/springmvc_web/springmvc_web.iml" />
+    </modules>
+  </component>
+</project>
